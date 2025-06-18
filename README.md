@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Tech Enthusiast | IGDTUW'27 | ML & DSA Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=500&lines=Passionate+about+AI+%7C+Web+Dev+%7C+DSA;Lifelong+Learner+%7C+Hackathon+Lover+%F0%9F%A4%96;Collaboration+%26+Impact-driven+projects+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=false&width=500&lines=Passionate+about+AI+%7C+Web+Dev+%7C+DSA;Lifelong+Learner+%7C+Hackathon+Lover+%F0%9F%A4%96;%26+Impact-driven+projects+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 
