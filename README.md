@@ -9,9 +9,9 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 2nd Year B.Tech Student @ **IGDTUW**
+- 🎓 3rd Year B.Tech Student @ **IGDTUW**
 - 🧠 Exploring **Machine Learning**, **Full Stack Dev**, and **Data Structures**
-- 💻 Actively contributing to communities like GDSC, Lean In, and IEEE
+- 💻 Actively contributing to communities like CSD and IEEE
 - 🌱 Currently building smart, socially impactful tech projects
 - 📫 Reach me at **sy0381718@gmail.com**
 
